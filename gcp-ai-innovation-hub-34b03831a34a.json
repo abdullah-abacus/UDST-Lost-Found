@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-ai-innovation-hub",
+  "private_key_id": "34b03831a34addad194bfc53df694f7a8ae95852",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfkBu4Q1zKNJiQ\nJ+CYMUoUnhD/JQvw/it+kg7kSk0zdZdf7cNt2H3f2nmI2dlstJn1qHpHjiDAX4Sq\nE9MKLU2V/Y7qM92Za8mMEwvtT2e41dhc/6bl4E6x8hr5iDzdDtr5gSaZcq65gA7Y\nivhdjDf5RuIGzOZJaK5fJUSG2qRiYmNMOpZu7YnqTCMyLUf9mmwavFvbrWbTerLZ\n6Gp2AFePRdnh60a7lk16wRozdFKGe7WRUhWYpKwZpobu+n9LzJS3KseMx7h8xA4A\nC/jU+cBKxvq6MjFEFyikPODe5giAbdPbhaNs9DbtA8BrN/yMzQ0g4ZI1SlhtYGJu\nda3CzLtzAgMBAAECggEAMyx6H2oHR9h/d3g6mUTxj9Qz+khM4KD7nQ/F0+Saht73\nSe5Mx51vnUwJv2Cy0SDI4dcDRJCqI1hfCVbrT6/A2tJjs+wnbW16ycBQCm91gfuf\ndRAO3FnIk1xk11OgxXresrd/hCYaMGcIG93SEtqGFx3rHqg3USLQDba7mA5mOyD2\nM6g+/LORDrZvUAE+YwIv+GFEHGH3lHMfpisdjc/Lf8lF+2SYavyBUa+PTKy3FwgN\nRnDJYRUslO/a3q4w2YU0Qw5Se8QvRqpCVUf1nOGw3A1uZtUvBBTtMZtdtRAUg+2p\nFHtmA0rCfdDujCIOaPY6KRBVi8Jw1dakud6yQujl/QKBgQDNw+VOP9Z0HqXpABqx\nSuHp6qCBaPQVkQ1XkOXRingQnLCMiOAlf7zjdeuJd5SJBlT2zHOKoX2HxP4k+21X\nu9MO70iEXNYZDHhEYahjhqBW0HWXpEiU7Emao7zmwlmw5cKRB/EnpBeoagUOl5Pe\nvWlpBRMae1AbUvavuOUDkinb5QKBgQDGhJ5zNaRo4FGF4Zs/KlGgYXVQTCyOedSS\nmJClovedUCzW2upIiW3Z4BbkQO5/PNgm0hiDuFdfKFMBRKMmmo1ZzwnVftLsWXiE\niOHQvsIvc1XbikIvBTsmmgGxjTH3sEYSVMI38nuF9eln9jyD1vHxDoS668ZI6gRU\n09z4JSk0dwKBgQCRZG5O0ETUYCOTdANoayUeiC9JwcNWydvHmBcL7O/RrSYC52Sa\nmpv5jYUU6W4HNHYsvWKW/m0Y1lVOBGrKp2kHEIUJIiAWKv2ANBEr4iDBtyKgN/Eh\naaTIpBICbCm8GV1V5Wq9O/GLiv5vxSMzLFujXXaWK7P62rB8kgUgdNMnEQKBgQCN\noa5+WeYboPbowsYFMccc2otdJ4uedtMvZ8PDONralIn5HCSMbeg+yn7qiFzf0GQS\nhlBRIaLMVDOsMvEHqLpyOaE1fY80arzuKc6aJI7cVbgKssB3VY8XAkd1Clx873l+\nuJP8YHa6Y3EL6ATStvbUWdxek7pa6QMAFkuPisu0DwKBgCBundhE1t6aFsO8WTAl\n3ZuGDPBSIFPE2nqYXK+hGpu1yQL/mV1fLuSvFdqjJFrbgSwddusSv9TrmngZIM7w\nemGiOuxgNOBlGIQY89n/x9JbmjVkU3KDJ7svD9/EDWPQPFqvPjiSAoiizfSKeOv1\ndd0O2ekp10x5ozt2qTq8ckJo\n-----END PRIVATE KEY-----\n",
+  "client_email": "doha-mvp-muawaz@gcp-ai-innovation-hub.iam.gserviceaccount.com",
+  "client_id": "112548403850606159232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/doha-mvp-muawaz%40gcp-ai-innovation-hub.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
